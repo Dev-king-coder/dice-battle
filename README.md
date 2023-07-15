@@ -1,2 +1,2 @@
-# Dicy-1vs1-Dice-Battle-Game
+# Dice-Battle
 A simple game made with basic js along with html,css!
